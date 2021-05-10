@@ -4,6 +4,10 @@ body {
   padding-top: 70px;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 .full-screen {
   padding: 8rem 0;
 }
